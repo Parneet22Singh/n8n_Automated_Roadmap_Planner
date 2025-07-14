@@ -246,15 +246,15 @@
     },
     {
       "parameters": {
-        "content": "The Code function node extracts the email ID from the Gemini output while also forwarding the remaining content for use in the email body.",
-        "height": 140,
+        "content": "The Code function node extracts the email ID from the Gemini output while also forwarding the remaining content for use in the email body. You can bypass this node by simply providing an email to send the contents to in the gmail node.",
+        "width": 260,
         "color": 3
       },
       "type": "n8n-nodes-base.stickyNote",
       "typeVersion": 1,
       "position": [
-        120,
-        -200
+        100,
+        -220
       ],
       "id": "b4004f25-12d2-4ce9-a249-454146cb6f53",
       "name": "Sticky Note1"
@@ -379,7 +379,7 @@
   "settings": {
     "executionOrder": "v1"
   },
-  "versionId": "5e2cf52c-8a79-456b-ad1b-e52405574a4c",
+  "versionId": "12ec194b-8691-43e0-a6cb-ebc5a2124756",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "6ff833731bebf924f54230e0d40122d71747604b4891cbc7677374613560b3c3"
