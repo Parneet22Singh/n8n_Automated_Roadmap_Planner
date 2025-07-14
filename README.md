@@ -1,6 +1,6 @@
 # 📚 Academic & Career Roadmap Generator (n8n Workflow)
 
-This project is an **n8n-based automation** that creates and delivers a personalized academic and career roadmap to B.Tech students via **Gmail** and **Google Calendar**. It leverages the **Gemini API** for dynamic HTML generation and automates scheduling and email notifications.
+This project is an **n8n-based automation** that creates and delivers a personalized academic and career roadmap to B.Tech/ B.S and BCA students via **Gmail** and **Google Calendar**. It leverages the **Gemini API** for dynamic HTML generation and automates scheduling and email notifications.
 
 ---
 
