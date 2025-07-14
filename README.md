@@ -85,10 +85,12 @@ Before running the workflow, set up the following credentials in n8n:
 
 ## 🧪 Sample Input
 
-```json
 {
   "What is your name?": "Parneet Singh",
-  "What is your discipline of study?": "Computer Science",
+  "What is your discipline of study?": "AI/ML",
   "What year are you in?": "3",
   "What is your current level of understanding?": "Intermediate"
 }
+
+## NOTE
+You can also import the template by simply copying (ctrl+c) the contents of the academic_roadplan.json file and pasting (ctrl+v) them in the n8n workflow (IDE).
